@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony Munyaka
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me tonymunyax@gmail.com, +254701098376, 
 
 <!---
